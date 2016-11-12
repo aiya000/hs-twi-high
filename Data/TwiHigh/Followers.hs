@@ -4,6 +4,7 @@
 module Data.TwiHigh.Followers
   ( List (..)
   , ListUsers (..)
+  , fetchFollowersList
   ) where
 
 import Data.Aeson (FromJSON (..), Value (..), (.:), decode)

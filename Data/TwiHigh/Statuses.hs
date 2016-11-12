@@ -4,6 +4,8 @@
 module Data.TwiHigh.Statuses
   ( UserTimeline
   , UserTimelineItem (..)
+  , postTweet
+  , fetchUserTimeline
   ) where
 
 import Data.Aeson (FromJSON (..), Value (..), (.:), decode)
