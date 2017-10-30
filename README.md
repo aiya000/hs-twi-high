@@ -1,2 +1,2 @@
 # hs-twi-high
-[WIP] Simple Twitter API Wrapper for Haskell .
+My experience for create API wrapper (this project may not be completed in the future)
